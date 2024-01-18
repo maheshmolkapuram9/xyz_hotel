@@ -1,6 +1,6 @@
 const ListofHomeLinks = [
     {
-        route:"/#/rooms",
+        route:"/#/#rooms",
         img:"./RghPhotos/room19.jpg",
         title:"Rooms"
     },
