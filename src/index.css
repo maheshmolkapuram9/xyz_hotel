@@ -538,6 +538,9 @@ span{
     display: block;
     text-align: center;
   }
+  .homeImgLink{
+    width: 350px;
+  }
 }
 
 
