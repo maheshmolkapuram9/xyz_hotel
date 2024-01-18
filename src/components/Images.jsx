@@ -1,0 +1,28 @@
+const Images = [
+    "./RghPhotos/room1.jpg",
+    "./RghPhotos/room4.jpg",
+    "./RghPhotos/room20.jpg",
+    "./RghPhotos/breakfast.jpg",
+    "./RghPhotos/running.jpg",
+    "./RghPhotos/room6.jpg",
+    "./RghPhotos/room8.jpg",
+    "./RghPhotos/room12.jpg",
+    "./RghPhotos/room16.jpg",
+    "./RghPhotos/room9.jpg",
+    "./RghPhotos/room7.jpg",
+    "./RghPhotos/room10.jpg",
+    "./RghPhotos/room11.jpg",
+    "./RghPhotos/room18.jpg",
+    "./RghPhotos/room15.jpg",
+    "./RghPhotos/room19.jpg",
+    "./RghPhotos/room14.jpg",
+    "./RghPhotos/room5.jpg",
+    "./RghPhotos/room17.jpg",
+    "./RghPhotos/room13.jpg",
+    "./RghPhotos/room16.jpg",
+    "./RghPhotos/room2.jpg",
+    "./RghPhotos/room21.jpg",
+    "./RghPhotos/room3.jpg",
+];
+
+export default Images;
