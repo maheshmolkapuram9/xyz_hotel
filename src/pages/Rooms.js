@@ -18,7 +18,7 @@ const Rooms = () => {
         />
     })
     return (
-        <div id="#rooms">
+        <div id="rooms">
             <Photoslides listofimages={RoomsListofSlides} />
             {EachRoom}
         </div>
