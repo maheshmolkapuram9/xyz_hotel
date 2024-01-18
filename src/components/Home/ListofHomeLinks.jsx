@@ -5,12 +5,12 @@ const ListofHomeLinks = [
         title:"Rooms"
     },
     {
-        route:"/#/location",
+        route:"/#location",
         img:"./RghPhotos/hotellocation.jpg",
         title:"Location"
     },
     {
-        route:"/#/inTheHotel",
+        route:"/#inTheHotel",
         img:"./RghPhotos/inthehotel.jpg",
         title:"The Hotel"
     },
