@@ -19,7 +19,7 @@ const InTheHotel = () => {
     });
     return(
         <>
-            <div className="thingsToDoMain">
+            <div className="thingsToDoMain" id="inTheHotel">
                 <img className="thingsToDoMainImg" src="./London/londonEye.jpg" alt="LondonBridge"/>
             </div>
             <div className="galleryTitle">
